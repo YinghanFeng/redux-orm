@@ -98,7 +98,7 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
-    "@babel/runtime": "^7.13.9",
+    "@babel/runtime": "^7.24.8",
     "immutable-ops": "^0.7.0",
     "lodash": "^4.17.21",
     "re-reselect": "^4.0.0",
