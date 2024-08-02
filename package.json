@@ -101,7 +101,7 @@
     "@babel/runtime": "^7.13.9",
     "immutable-ops": "^0.7.0",
     "lodash": "^4.17.21",
-    "re-reselect": "^4.0.0",
+    "re-reselect": "^4.0.1",
     "reselect": "^3.0.1"
   }
 }
