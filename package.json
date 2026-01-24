@@ -100,7 +100,7 @@
   "dependencies": {
     "@babel/runtime": "^7.13.9",
     "immutable-ops": "^0.7.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "re-reselect": "^4.0.0",
     "reselect": "^3.0.1"
   }
